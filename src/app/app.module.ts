@@ -3,6 +3,7 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { CounterComponent } from './components/Counter.component';
 import { HomeComponent } from './components/Home.component';
 import { InfoHubComponent } from './components/InfoHub.component';
 
@@ -10,7 +11,8 @@ import { InfoHubComponent } from './components/InfoHub.component';
   declarations: [
     AppComponent,
     HomeComponent,
-    InfoHubComponent
+    InfoHubComponent,
+    CounterComponent
   ],
   imports: [
     BrowserModule,

@@ -5,8 +5,8 @@
 - [ ] Real time interaction
 - [ ] data and event binding
 - [ ] share data between components
-- [ ] forms
+- [ ] **forms**
 - [ ] **service to filter data and inject to component**
 - [ ] Dynamic Components
 - [ ] asynchronus request
-- [ ] separate router for a module/component 
+- [ ] nested router for a module/component

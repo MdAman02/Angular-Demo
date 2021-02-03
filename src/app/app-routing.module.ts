@@ -5,7 +5,8 @@ import { InfoHubComponent } from './components/InfoHub.component';
 
 const routes: Routes = [
   { path: 'home', component: HomeComponent },
-  { path: 'infohub', component: InfoHubComponent }
+  { path: 'infohub', component: InfoHubComponent },
+  { path: '', redirectTo:'/home', pathMatch: 'full' }
 ];
 
 @NgModule({
