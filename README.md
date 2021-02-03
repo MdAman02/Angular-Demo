@@ -1,3 +1,5 @@
+## Planning
+- [ToDo](https://github.com/MdAman02/Angular-Demo/blob/master/ToDo.md)
 # Demo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.2.
