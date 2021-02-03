@@ -1,11 +1,14 @@
 # Things To Cover:
-- [ ] **multiple Component Hierarchy**
-- [ ] **Routing**
-- [ ] **pass value to a route**
+- [x] **multiple Component Hierarchy**
+- [x] **Routing**
+- [x] **pass value to a route**
 - [ ] Real time interaction
 - [ ] data and event binding
 - [ ] share data between components
-- [ ] **forms**
+- [x] **forms**
+> - [x] with vanilla
+> - [ ] template driven
+> - [ ] reactive
 - [ ] **service to filter data and inject to component**
 - [ ] Dynamic Components
 - [ ] asynchronus request

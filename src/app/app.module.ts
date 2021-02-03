@@ -6,13 +6,15 @@ import { AppComponent } from './app.component';
 import { CounterComponent } from './components/Counter.component';
 import { HomeComponent } from './components/Home.component';
 import { InfoHubComponent } from './components/InfoHub.component';
+import { ToDoComponent } from './components/ToDo.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     HomeComponent,
     InfoHubComponent,
-    CounterComponent
+    CounterComponent,
+    ToDoComponent
   ],
   imports: [
     BrowserModule,

@@ -1,0 +1,11 @@
+<h3> ToDo List</h3>
+
+<div>
+  <li *ngFor="let task of list">{{task}}</li>
+</div>
+
+<span>
+  <label>Task Name</label>
+  <input id="taskinp">
+  <button (click)="onSubmit()">Add</button>
+</span>
