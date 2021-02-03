@@ -1,0 +1,12 @@
+# Things To Cover:
+- [ ] **multiple Component Hierarchy**
+- [ ] **Routing**
+- [ ] **pass value to a route**
+- [ ] Real time interaction
+- [ ] data and event binding
+- [ ] share data between components
+- [ ] forms
+- [ ] **service to filter data and inject to component**
+- [ ] Dynamic Components
+- [ ] asynchronus request
+- [ ] separate router for a module/component 
